@@ -9,9 +9,10 @@ import { Component } from "@angular/core";
     standalone: true, 
 
     // html
-    templateUrl: './header.component.html'
-    
+    templateUrl: './header.component.html',
+
     // css
+    styleUrl: './header.component.css',
 })
 
 export class HeaderComponent {}
