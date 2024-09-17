@@ -1,7 +1,7 @@
 import { bootstrapApplication } from '@angular/platform-browser';
 
 import { AppComponent } from './app/app.component';
-import { HeaderComponent } from './app/header.component'; 
+import { HeaderComponent } from './app/header/header.component'; 
 
 // tells angular there is a new component and that it should look for its 
 // tag in index.html, to display the content of component on screen.
